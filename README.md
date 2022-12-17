@@ -3,9 +3,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=baalgx&&show_icons=true&title_color=5D568A&icon_color=bb2acf&text_color=8D89A6&bg_color=E6C0E9"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=a554cv3ht153qqo177q0109er&width=300&count=3" />
 
 ## [ඞ](https://www.youtube.com/watch?v=dQw4w9WgXcQ) About me
-- Panamanian 19 years at university trying my best (sleep was never an option ;-;).
+- Panamanian, 19 years old.
 - Currently maintaining [PixelOS](https://github.com/PixelOS-AOSP) for Xiaomi Mi 9 (cepheus).
-- Saquenme de latinoamérica.
+- Saquenme de latinoamérica xd.
 
 ## 🤨 My social media
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/balgxmr)
