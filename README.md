@@ -1,7 +1,11 @@
-### Hey there, I'm balgxmr. (:
-<img src="https://github-readme-stats.vercel.app/api?username=baalgx&&show_icons=true&title_color=5D568A&icon_color=bb2acf&text_color=8D89A6&bg_color=E6C0E9"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=a554cv3ht153qqo177q0109er&width=300&count=3" />
+### Hi there 👋
+<img src="https://github-readme-stats.vercel.app/api?username=baalgx&&show_icons=true&title_color=B99153&icon_color=CA6267&text_color=B99153&bg_color=FFFEFE"> 
 
 <!---
+
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=a554cv3ht153qqo177q0109er&width=300&count=3" />
+
+
 ## [ඞ](https://www.youtube.com/watch?v=dQw4w9WgXcQ) About me
 - Panamanian, 19 years old.
 - Currently maintaining [PixelOS](https://github.com/PixelOS-AOSP) for Xiaomi Mi 9 (cepheus).
