@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://github-readme-stats.vercel.app/api?username=balgxmr&&show_icons=true&title_color=2C3E3E&icon_color=315254&text_color=2C3E3E&bg_color=FFFEFE"> 
+<img src="https://github-readme-stats.vercel.app/api?username=balgxmr&&show_icons=true&title_color=823DA2&icon_color=D44888&text_color=823DA2&bg_color=FFFEFE"> 
 
 <!---
 
