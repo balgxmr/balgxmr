@@ -2,7 +2,7 @@
 ```java
 public class balgxmr {
     public static void main(String[] args) {
-        String name = "José M.";
+        String name = "José";
         int age = 19;
         String university = "Technological University of Panama";
         String career = "Software Development Engineering";
