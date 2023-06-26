@@ -1,4 +1,15 @@
 ### Hi there 👋
+```java
+public class balgxmr {
+    public static void main(String[] args) {
+        String name = "José M.";
+        int age = 19;
+        String university = "Technological University of Panama";
+        String career = "Software Development Engineering";
+    }
+}
+```
+
 <img src="https://github-readme-stats.vercel.app/api?username=balgxmr&&show_icons=true&title_color=D5425C&icon_color=D5425C&text_color=D5425C&bg_color=FFFEFE"> 
 
 <!---
