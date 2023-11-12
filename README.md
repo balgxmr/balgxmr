@@ -13,8 +13,8 @@ public class balgxmr {
 ```
 <img src="https://github-readme-stats.vercel.app/api?username=balgxmr&&show_icons=true&title_color=D5425C&icon_color=D5425C&text_color=D5425C&bg_color=FFFEFE"> 
 
-<div align="center"><img src="https://github.com/duiqt/herta_kuru/blob/main/static/img/hertaa_github.gif"></div>
 <!---
+<div align="center"><img src="https://github.com/duiqt/herta_kuru/blob/main/static/img/hertaa_github.gif"></div>
 
 
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=a554cv3ht153qqo177q0109er&width=300&count=3" />
