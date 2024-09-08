@@ -11,11 +11,14 @@ public class balgxmr {
     }
 }
 ```
+
+<!---
+
 <img src="https://github-readme-stats.vercel.app/api?username=balgxmr&&show_icons=true&title_color=D5425C&icon_color=D5425C&text_color=D5425C&bg_color=FFFEFE"> 
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXk2NHVnam1vZzFmaHh5Zmc3cTV4anUwajIxMHQzbnQwcDFqOXlkZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iJLAju9iMjQfC/giphy.webp">
 
-<!---
+
 <div align="center"><img src="https://github.com/duiqt/herta_kuru/blob/main/static/img/hertaa_github.gif"></div>
 
 
