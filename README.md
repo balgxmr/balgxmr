@@ -13,7 +13,7 @@ public class balgxmr {
 ```
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/cHQq0zhPxDavu/giphy.gif" style="max-width: 100%; width: 100%; height: auto;" />
+  <img src="./whoscvrlos_2025-07-23_M4.gif" style="max-width: 100%; width: 100%; height: auto; border-radius: 3rem;" />
 </p>
 
 <!---
